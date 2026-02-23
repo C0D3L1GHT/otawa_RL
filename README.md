@@ -1,4 +1,4 @@
-# jTawa_RL
+# otawa_RL
 A traditional roguelike based on the O Tawa! Table Top Role Playing Game
 
 ## errors
